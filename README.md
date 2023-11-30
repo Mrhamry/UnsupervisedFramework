@@ -1,4 +1,3 @@
-# Framework
 
 # Redefining Privacy Policy Summarisation: A Contextualised Sentence Embedding Approach
 
