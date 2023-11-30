@@ -16,5 +16,6 @@ We introduce **Policy-Oriented BERT**, a privacy policy-specific BERT model that
 As stated in our paper, we implemented MEAN-strategy pooling with the Policy-Oriented BERT model to produce superior results when generating sentence embeddings.
 
 **Additional Resources:**
+- **One Million privacy policy sentences:** Available [here](insert-link).
 - **Extracted Sentence Embeddings:** Downloadable from [here](insert-link).
 - **2D Sentence Embeddings for Visualization:** Available [here](insert-link).
