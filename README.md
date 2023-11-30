@@ -3,7 +3,8 @@
 
 In this project, we suggest the use of an unsupervised approach to identify the privacy practices in privacy policies. We developed a framework utilizing state-of-the-art AI models along with other processing methods.
 
-![ Overview of our proposed framework](image-url)![Framework Overview](https://github.com/Mrhamry/UnsupervisedFramework/assets/31767656/14b1dd88-7383-4185-8636-281d2cc33869)
+Overview of our proposed framework
+![Framework Overview](https://github.com/Mrhamry/UnsupervisedFramework/assets/31767656/14b1dd88-7383-4185-8636-281d2cc33869)
 
 
 We introduce **Policy-Oriented BERT**, a privacy policy-specific BERT model that is pre-trained from scratch on a large corpus containing over 451K privacy policy documents.
