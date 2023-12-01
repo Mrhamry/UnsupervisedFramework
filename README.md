@@ -21,7 +21,7 @@ As stated in our paper, we implemented MEAN-strategy pooling with the Policy-Ori
 - **Extracted Sentence Embeddings (Pickles):** Downloadable from [here](https://livewarwickac-my.sharepoint.com/:u:/g/personal/u1490553_live_warwick_ac_uk/ETR1hz0PTQ5JqvjY_LxMrJABfXt1m9mrZdFm6wfkawXOJA?e=lYc6li).
 - **Clustered sentences (Pickles):** Available [here](https://livewarwickac-my.sharepoint.com/:u:/g/personal/u1490553_live_warwick_ac_uk/Ed1u9ofbwT9GkCXdf_kSrmcBjr2DXHFXZq9ZmaV5vIMxHg?e=6hN08Y).
 
- Additionally, our framework has enabled us to produce a privacy practice corpus, which can be beneficial in training supervised models.
+ Additionally, our framework has enabled us to develope a comprehensive privacy practices Taxonomy. It also enabled the gerneration of a privacy practice corpus, which can be beneficial in training supervised models.
 
 **Resources:**
 
