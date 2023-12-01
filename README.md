@@ -25,4 +25,4 @@ As stated in our paper, we implemented MEAN-strategy pooling with the Policy-Ori
 
 **Resources:**
 
-- **Privacy Practice Corpus (Pickles):** Downloadable from [here](https://livewarwickac-my.sharepoint.com/:u:/g/personal/u1490553_live_warwick_ac_uk/ERAuTvIKVWtKkYcs33pWnv0BPy3IrqDY43s06Rmu3oKLJQ?e=06bWVy).
+- **Taxonomy - Privacy Practice Corpus (Pickles):** Downloadable from [here](https://livewarwickac-my.sharepoint.com/:u:/g/personal/u1490553_live_warwick_ac_uk/ERAuTvIKVWtKkYcs33pWnv0BPy3IrqDY43s06Rmu3oKLJQ?e=06bWVy).
