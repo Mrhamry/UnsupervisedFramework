@@ -17,12 +17,12 @@ We introduce **Policy-Oriented BERT**, a privacy policy-specific BERT model that
 As stated in our paper, we implemented MEAN-strategy pooling with the Policy-Oriented BERT model to produce superior results when generating sentence embeddings.
 
 **Resources:**
-- **One Million privacy policy sentences (Pickles):** Available [here](https://livewarwickac-my.sharepoint.com/:u:/g/personal/u1490553_live_warwick_ac_uk/Ee4i-7Q1GJ9JrWssCkHafGgBDZWi3xvCnHxX2cnxx_ev1g?e=BNGLwf).
-- **Extracted Sentence Embeddings (Pickles):** Downloadable from [here](https://livewarwickac-my.sharepoint.com/:u:/g/personal/u1490553_live_warwick_ac_uk/ETR1hz0PTQ5JqvjY_LxMrJABfXt1m9mrZdFm6wfkawXOJA?e=lYc6li).
-- **Clustered sentences (Pickles):** Available [here](https://livewarwickac-my.sharepoint.com/:u:/g/personal/u1490553_live_warwick_ac_uk/Ed1u9ofbwT9GkCXdf_kSrmcBjr2DXHFXZq9ZmaV5vIMxHg?e=6hN08Y).
+- **One Million privacy policy sentences (Pickle):** Available [here](https://livewarwickac-my.sharepoint.com/:u:/g/personal/u1490553_live_warwick_ac_uk/Ee4i-7Q1GJ9JrWssCkHafGgBDZWi3xvCnHxX2cnxx_ev1g?e=BNGLwf).
+- **Extracted Sentence Embeddings (Pickle):** Downloadable from [here](https://livewarwickac-my.sharepoint.com/:u:/g/personal/u1490553_live_warwick_ac_uk/ETR1hz0PTQ5JqvjY_LxMrJABfXt1m9mrZdFm6wfkawXOJA?e=lYc6li).
+- **Clustered sentences (Pickle):** Available [here](https://livewarwickac-my.sharepoint.com/:u:/g/personal/u1490553_live_warwick_ac_uk/Ed1u9ofbwT9GkCXdf_kSrmcBjr2DXHFXZq9ZmaV5vIMxHg?e=6hN08Y).
 
  Additionally, our framework has enabled us to develope a comprehensive privacy practices Taxonomy. It also enabled the gerneration of a privacy practice corpus, which can be beneficial in training supervised models.
 
 **Resources:**
 
-- **Taxonomy / Privacy Practice Corpus (Pickles):** Downloadable from [here](https://livewarwickac-my.sharepoint.com/:u:/g/personal/u1490553_live_warwick_ac_uk/ERAuTvIKVWtKkYcs33pWnv0BPy3IrqDY43s06Rmu3oKLJQ?e=06bWVy).
+- **Taxonomy / Privacy Practice Corpus (Pickle):** Downloadable from [here](https://livewarwickac-my.sharepoint.com/:u:/g/personal/u1490553_live_warwick_ac_uk/ERAuTvIKVWtKkYcs33pWnv0BPy3IrqDY43s06Rmu3oKLJQ?e=06bWVy).
